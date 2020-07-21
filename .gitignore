@@ -111,7 +111,6 @@ env.bak/
 venv.bak/
 .idea
 dabl-master
-data
 notebooks/ag-example-out/
 
 # Spyder project settings
